@@ -1,6 +1,7 @@
 # Convobot+
 
 # AYLI - Human-like Voice Assistant 
+![Screenshot (294)](https://github.com/kukey02/ConvoBot/assets/75012067/3e802391-6f9b-44ca-b159-06a7e83d2d39)
 
 
 Welcome to Ayli, an advanced Chatbot that brings the power of ChatGPT and Eleven Labs together to create a human-like voice assistant. 
@@ -19,7 +20,7 @@ Ayli Chat is a chatbot built using Python and JavaScript. It leverages the Open 
 ## Features
 - Conversational capabilities powered by ChatGPT and Eleven Labs API.
 - Full-stack application with React and FastAPI for seamless integration.
-- Option to customize the voice to sound human or use your own voice.
+- Option to customize the voice to sound human or use your own voice
 - Prompt engineering techniques to optimize AI language model responses.
 
 ## Prerequisites
@@ -50,6 +51,7 @@ To start using Rachel Chat, follow these steps:
 
 2. Replace the API keys in the appropriate .env files for frontend and backend.
 
+
 3. Launch the application:
    ```
    npm start   # For React frontend
@@ -65,4 +67,5 @@ To start using Rachel Chat, follow these steps:
 - FastAPI
 - Open AI API
 - Eleven Labs API
+
 
